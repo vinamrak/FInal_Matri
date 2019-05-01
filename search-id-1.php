@@ -2,7 +2,7 @@
 <?php include_once("functions.php"); ?>
 <?php
 if(isloggedin()){
- header("location:logg.php");
+ 
 } else{
    header("location:login.php");
 }

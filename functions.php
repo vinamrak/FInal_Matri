@@ -4,7 +4,6 @@ function mysqlexec($sql){
 	$username="root"; // Mysql username
 	$password="mohit"; // Mysql password
 	$db_name="matrimony"; // Database name
-
 // Connect to server and select databse.
 $conn=mysqli_connect("$host", "$username", "$password")or die("cannot connect");
 mysqli_select_db($conn,"$db_name")or die("cannot select DB");
@@ -134,16 +133,13 @@ $fname=$_POST['fname'];
 $lname=$_POST['lname'];
 $sex=$_POST['sex'];
 $email=$_POST['email'];
-
 	$day=$_POST['day'];
 	$month=$_POST['month'];
 	$year=$_POST['year'];
 $dob=$year ."-" . $month . "-" .$day ;
-
 $religion=$_POST['religion'];
 $caste = $_POST['caste'];
 $subcaste=$_POST['subcaste'];
-
 $country = $_POST['country'];
 $state=$_POST['state'];
 $district=$_POST['district'];
@@ -170,7 +166,6 @@ $income=$_POST['income'];
 $bros=$_POST['bros'];
 $sis=$_POST['sis'];
 $aboutme=$_POST['aboutme'];
-
 require_once("includes/dbconn.php");
 $sql="SELECT cust_id FROM customer WHERE cust_id=$id";
 $result=mysqlexec($sql);

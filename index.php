@@ -6,7 +6,8 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Find Your Perfect Partner - Make My Love | Home :: 
+<title>Find Your Perfect Partner: Marital| Home  
+
 </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -151,9 +152,11 @@ $(document).ready(function(){
 	
     <div class="footer">
     	<div class="container">
-    		<div class="col-md-4 col_2">
+    		<div class="col-md-4 col_2"></div>
+
     			<h4><b>About Us</b></h4>
     			<p>"Welcome to Marital.com Every life has its own charm in each stage and a married life is no exception. Marriage is an institution, which initiates the authentic values of life. In India, a marriage is usually arranged by the family or Relatives of the bride or the groom within a known circle. But today~s nomad life has narrowed this choice and hence matrimonial bureaus and marriage websites lead a vital role. Marital.com is celebrated as the most Trusted Matrimony Brand combining tradition and technology."</p>
+
     		</div>
     		<div class="col-md-2 col_2">
     			
