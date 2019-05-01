@@ -1,4 +1,4 @@
-# Working database Management Project with php framework and mysql for database management.
+# Matrimonial Website with php framework and mysql for database management.
 For working first make two changes:
 1.) Functions.php file database changes
 2.)/includes/dbconn.php file  database changes
