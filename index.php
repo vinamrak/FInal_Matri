@@ -11,15 +11,9 @@
 	</title>
 
 	<style>
-		.gfg {
-			width: auto;
-			text-align: center;
-			padding: 20px;
-		}
-
 		img {
-			max-width: 50% !important ;
-			height: 50% !important ; 
+			max-width:80%;
+			height: auto; 
 		}
 	</style>
 
@@ -95,7 +89,7 @@
 		</div>
 		<div class="container" style="position:absolute; width:600px; height:500px; right:0; top:0; margin-top: 80px;">
 
-			<img style="height:500px; width:500px; overflow-x:hidden;" src="./images/undraw.png">
+			<img style="height:500px; width:500px; overflow-x:hidden;" src="./images/pic3.jpg">
 
 		</div>
 	</div>
